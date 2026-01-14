@@ -1,0 +1,52 @@
+{
+  "1": {
+    "track_id": 1,
+    "n_matrices": 7,
+    "best_prediction": 1,
+    "best_confidence": 1.0,
+    "vote_prediction": 1,
+    "vote_confidence": 1.0,
+    "final_prediction": 1,
+    "final_class_name": "2_Small_UAV",
+    "matrix_files": [
+      "Track1_Group001_Points1-2.mat",
+      "Track1_Group002_Points3-6.mat",
+      "Track1_Group003_Points7-9.mat",
+      "Track1_Group004_Points10-11.mat",
+      "Track1_Group005_Points12-13.mat",
+      "Track1_Group006_Points14-17.mat",
+      "Track1_Group007_Points18-21.mat"
+    ]
+  },
+  "2698": {
+    "track_id": 2698,
+    "n_matrices": 3,
+    "best_prediction": 1,
+    "best_confidence": 1.0,
+    "vote_prediction": 1,
+    "vote_confidence": 1.0,
+    "final_prediction": 1,
+    "final_class_name": "2_Small_UAV",
+    "matrix_files": [
+      "Track2698_Group001_Points1-5.mat",
+      "Track2698_Group002_Points6-10.mat",
+      "Track2698_Group003_Points11-15.mat"
+    ]
+  },
+  "2890": {
+    "track_id": 2890,
+    "n_matrices": 4,
+    "best_prediction": 1,
+    "best_confidence": 1.0,
+    "vote_prediction": 1,
+    "vote_confidence": 1.0,
+    "final_prediction": 1,
+    "final_class_name": "2_Small_UAV",
+    "matrix_files": [
+      "Track2890_Group001_Points1-4.mat",
+      "Track2890_Group002_Points5-8.mat",
+      "Track2890_Group003_Points9-12.mat",
+      "Track2890_Group004_Points13-16.mat"
+    ]
+  }
+}

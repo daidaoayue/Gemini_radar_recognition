@@ -1,0 +1,15 @@
+filename,prediction,class_name,confidence,status
+Track1_Group001_Points1-2.mat,0,1_Lightweight_UAV,0.9999871850013733,可信
+Track1_Group002_Points3-6.mat,0,1_Lightweight_UAV,0.9999658465385437,可信
+Track1_Group003_Points7-9.mat,0,1_Lightweight_UAV,0.9615679383277893,可信
+Track1_Group004_Points10-11.mat,0,1_Lightweight_UAV,0.9997953772544861,可信
+Track1_Group005_Points12-13.mat,0,1_Lightweight_UAV,0.9999969005584717,可信
+Track1_Group006_Points14-17.mat,0,1_Lightweight_UAV,0.9996604323387146,可信
+Track1_Group007_Points18-21.mat,0,1_Lightweight_UAV,0.9999894499778748,可信
+Track2698_Group001_Points1-5.mat,2,3Birds,0.7728260159492493,可信
+Track2698_Group002_Points6-10.mat,2,3Birds,0.999228835105896,可信
+Track2698_Group003_Points11-15.mat,3,4Fly_ball,0.5390939712524414,可信
+Track2890_Group001_Points1-4.mat,1,2_Small_UAV,0.9998455047607422,可信
+Track2890_Group002_Points5-8.mat,1,2_Small_UAV,0.9999253749847412,可信
+Track2890_Group003_Points9-12.mat,1,2_Small_UAV,0.9999997019767761,可信
+Track2890_Group004_Points13-16.mat,1,2_Small_UAV,0.9999498724937439,可信

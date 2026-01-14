@@ -1,0 +1,23 @@
+{
+  "1": {
+    "best_confidence_prediction": 1,
+    "vote_prediction": 1,
+    "final_prediction": 1,
+    "max_confidence": 1.0,
+    "n_matrices": 7
+  },
+  "2698": {
+    "best_confidence_prediction": 1,
+    "vote_prediction": 1,
+    "final_prediction": 1,
+    "max_confidence": 1.0,
+    "n_matrices": 3
+  },
+  "2890": {
+    "best_confidence_prediction": 1,
+    "vote_prediction": 1,
+    "final_prediction": 1,
+    "max_confidence": 1.0,
+    "n_matrices": 4
+  }
+}
